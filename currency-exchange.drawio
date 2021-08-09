@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-09T05:47:11.662Z" agent="5.0 (X11)" etag="XjwkEeRhUcnm49OQFQNB" version="14.9.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-09T05:58:43.652Z" agent="5.0 (X11)" etag="J-nhdwb5ciGpmwkxQizP" version="14.9.5" type="github">
   <diagram id="T9xgaOHDPQrs-XFZEX-W" name="Page-1">
     <mxGraphModel dx="1350" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -10,19 +10,33 @@
         <mxCell id="5fQ8Wmeh50y775HjGKkR-1" value="&lt;div&gt;Customer&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="300" width="30" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="5fQ8Wmeh50y775HjGKkR-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5fQ8Wmeh50y775HjGKkR-2" target="5fQ8Wmeh50y775HjGKkR-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="435" y="400" />
+              <mxPoint x="435" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="5fQ8Wmeh50y775HjGKkR-2" value="&lt;b&gt;ORG&lt;/b&gt;&lt;br&gt;Currency-Exchanger" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="220" width="120" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="5fQ8Wmeh50y775HjGKkR-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5fQ8Wmeh50y775HjGKkR-4">
+        <mxCell id="5fQ8Wmeh50y775HjGKkR-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.008;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5fQ8Wmeh50y775HjGKkR-4" target="5fQ8Wmeh50y775HjGKkR-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5fQ8Wmeh50y775HjGKkR-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5fQ8Wmeh50y775HjGKkR-4" target="5fQ8Wmeh50y775HjGKkR-7">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="529" y="360" />
+              <mxPoint x="530" y="360" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5fQ8Wmeh50y775HjGKkR-4" value="&lt;div&gt;&lt;b&gt;ORG&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Finance Ministry&lt;/font&gt;&lt;/div&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;i&gt;Verify Customers wealth and system provide Exchanger&#39;s certification&lt;/i&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="170" width="120" height="170" as="geometry" />
+        <mxCell id="5fQ8Wmeh50y775HjGKkR-4" value="&lt;div&gt;&lt;b&gt;ORG&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Finance Ministry&lt;/font&gt;&lt;/div&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;i&gt;Verify Customers wealth and provide various certifications&lt;/i&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="469" y="170" width="120" height="170" as="geometry" />
         </mxCell>
         <mxCell id="5fQ8Wmeh50y775HjGKkR-7" value="&lt;div&gt;Banks&lt;/div&gt;&lt;div&gt;&amp;amp;&lt;/div&gt;&lt;div&gt;Mobile Financial Services&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="380" width="120" height="180" as="geometry" />
+          <mxGeometry x="469" y="390" width="120" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
