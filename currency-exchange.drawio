@@ -1,30 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2021-08-09T06:45:39.829Z" agent="5.0 (X11)" etag="ZZbemNmnJ0bTTAZlgm-4" version="14.9.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-09T06:54:25.806Z" agent="5.0 (X11)" etag="RQdISl_fWyX33V3dWJQu" version="14.9.5" type="github">
   <diagram id="T9xgaOHDPQrs-XFZEX-W" name="Page-1">
     <mxGraphModel dx="931" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5fQ8Wmeh50y775HjGKkR-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.008;entryY=0.458;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5fQ8Wmeh50y775HjGKkR-1" target="5fQ8Wmeh50y775HjGKkR-2">
+        <mxCell id="5fQ8Wmeh50y775HjGKkR-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.478;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5fQ8Wmeh50y775HjGKkR-1" target="5fQ8Wmeh50y775HjGKkR-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5fQ8Wmeh50y775HjGKkR-1" value="&lt;div&gt;Customer&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="300" width="30" height="60" as="geometry" />
+          <mxGeometry x="160" y="250" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5fQ8Wmeh50y775HjGKkR-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5fQ8Wmeh50y775HjGKkR-2" target="5fQ8Wmeh50y775HjGKkR-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="435" y="430" />
-              <mxPoint x="435" y="470" />
-              <mxPoint x="560" y="470" />
+              <mxPoint x="420" y="470" />
+              <mxPoint x="420" y="470" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5fQ8Wmeh50y775HjGKkR-2" value="&lt;div&gt;&lt;b&gt;ORG&lt;/b&gt;&lt;/div&gt;&lt;div&gt;online&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;Currency-Exchanger" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="220" width="120" height="240" as="geometry" />
+        <mxCell id="5fQ8Wmeh50y775HjGKkR-2" value="&lt;div&gt;&lt;b&gt;ORG&lt;/b&gt;&lt;/div&gt;Currency-Exchanger" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="60" width="120" height="460" as="geometry" />
         </mxCell>
         <mxCell id="5fQ8Wmeh50y775HjGKkR-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.167;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5fQ8Wmeh50y775HjGKkR-4" target="5fQ8Wmeh50y775HjGKkR-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="420" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="137" />
+              <mxPoint x="440" y="137" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="5fQ8Wmeh50y775HjGKkR-4" value="&lt;div&gt;&lt;b&gt;ORG&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Finance Ministry&lt;/font&gt;&lt;/div&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;i&gt;Verify Customers wealth and provide various certifications&lt;/i&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -33,14 +36,16 @@
         <mxCell id="5fQ8Wmeh50y775HjGKkR-7" value="&lt;div&gt;Banks&lt;/div&gt;&lt;div&gt;&amp;amp;&lt;/div&gt;&lt;div&gt;Mobile Financial Services&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="430" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="5fQ8Wmeh50y775HjGKkR-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5fQ8Wmeh50y775HjGKkR-12" target="5fQ8Wmeh50y775HjGKkR-2">
+        <mxCell id="5fQ8Wmeh50y775HjGKkR-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.478;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5fQ8Wmeh50y775HjGKkR-12" target="5fQ8Wmeh50y775HjGKkR-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5fQ8Wmeh50y775HjGKkR-12" value="&lt;div&gt;&lt;b&gt;ORG&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Passport Office&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5fQ8Wmeh50y775HjGKkR-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.017;entryY=0.704;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5fQ8Wmeh50y775HjGKkR-14" target="5fQ8Wmeh50y775HjGKkR-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="5fQ8Wmeh50y775HjGKkR-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5fQ8Wmeh50y775HjGKkR-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="402" y="370" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="5fQ8Wmeh50y775HjGKkR-14" value="&lt;div&gt;&lt;b&gt;ORG&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Election Commision&lt;br&gt;&lt;b&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="340" width="120" height="60" as="geometry" />
